@@ -76,7 +76,7 @@ fechados = []
 abertos.append(eI)
 f1 = Estado()
 f1 = eI
-f1.opr()
+f1.p1top2()
 f1.__init__
 abertos.append(f1)
 print(abertos)
